@@ -1,0 +1,1 @@
+<Book xmlns="http://schemas.datacontract.org/2004/07/Task12" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Author>Tom</Author><Name>Book1</Name><NumberOfPages>250</NumberOfPages></Book>
